@@ -5,7 +5,7 @@
    viewBox="-715.5313110351562 -192.7485809326172 1953.66259765625 1714.595703125"
    version="1.1"
    id="svg2908"
-   sodipodi:docname="graph1.svg"
+   sodipodi:docname="graph11.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.69050018"
-     inkscape:cx="910.93387"
-     inkscape:cy="753.07729"
-     inkscape:window-width="1367"
-     inkscape:window-height="456"
+     inkscape:zoom="2.4693442"
+     inkscape:cx="1298.7254"
+     inkscape:cy="674.26808"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g2324" />
   <title
@@ -3313,6 +3313,27 @@
          id="text2320"
          style="fill:#008000">family_relationship</text>
     </g>
+    <ellipse
+       style="fill:#ff0000"
+       id="path879"
+       cx="-143.6554"
+       cy="-16.109268"
+       rx="4.6026235"
+       ry="4.8902874" />
+    <ellipse
+       style="fill:#ff0000"
+       id="path933"
+       cx="92.516724"
+       cy="340.88168"
+       rx="4.314959"
+       ry="4.0272951" />
+    <ellipse
+       style="fill:#ff0000"
+       id="path935"
+       cx="-174.43542"
+       cy="622.21704"
+       rx="4.314959"
+       ry="4.0272951" />
   </g>
   <g
      class="layer nodes"
